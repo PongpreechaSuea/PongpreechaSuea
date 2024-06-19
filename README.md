@@ -1,21 +1,27 @@
-<h1 align="center"><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" /> Pongpreecha Rattanasoi <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" /></h1>
+<h1 align="center">
+  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" /> 
+  Pongpreecha Rattanasoi 
+  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
+</h1>
+
 <h3 align="center">AI Engineer & Backend Developer</h3>
 
-
 <p align="center">
-I am an AI enthusiast with a passion for cutting-edge technologies like space tech, robotics, quantum computing, and biological innovations that seamlessly integrate with human life. As an aspiring AI expert, I am currently honing my skills in artificial intelligence while possessing a solid foundation in backend and frontend development.
+  I am an AI enthusiast with a passion for cutting-edge technologies like space tech, robotics, quantum computing, and biological innovations that seamlessly integrate with human life. As an aspiring AI expert, I am currently honing my skills in artificial intelligence while possessing a solid foundation in backend and frontend development.
 </p>
 
-- 🌍 Based in Bangkok, Thailand
-- ✉️ Reach me at [pongpreecha.suea@gmail.com](mailto:pongpreecha.suea@gmail.com)
+<p align="center">
+  🌍 Based in Bangkok, Thailand <br>
+  ✉️ Reach me at <a href="mailto:pongpreecha.suea@gmail.com">pongpreecha.suea@gmail.com</a>
+</p>
 
 <h2 align="left">Skills</h2>
 
 ### Programming Languages
 <p align="left">
   <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 </p>
 
