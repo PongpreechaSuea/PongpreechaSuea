@@ -1,13 +1,6 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
-    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi there! I'm Pongpreecha Rattanasoi" width="400">
-  </picture>
-</p>
-
-<h1 align="center">Pongpreecha Rattanasoi</h1>
+<h1 align="center"><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" /> Pongpreecha Rattanasoi <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" /></h1>
 <h3 align="center">AI Engineer & Backend Developer</h3>
+
 
 <p align="center">
 I am an AI enthusiast with a passion for cutting-edge technologies like space tech, robotics, quantum computing, and biological innovations that seamlessly integrate with human life. As an aspiring AI expert, I am currently honing my skills in artificial intelligence while possessing a solid foundation in backend and frontend development.
